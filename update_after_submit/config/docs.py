@@ -7,4 +7,8 @@ Configuration for docs
 # sub_heading = "Yes, you got that right the first time, everything"
 
 def get_context(context):
+<<<<<<< HEAD
 	context.brand_html = "Update After Submit"
+=======
+	context.brand_html = "update after submit"
+>>>>>>> 73132670b437915c1192646b59de771cceb64118

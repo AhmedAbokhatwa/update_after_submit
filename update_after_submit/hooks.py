@@ -1,7 +1,13 @@
 app_name = "update_after_submit"
+<<<<<<< HEAD
 app_title = "Update After Submit"
 app_publisher = "Ahmed Abukhatwa"
 app_description = "Update after submit in sales orders which is submited"
+=======
+app_title = "update after submit"
+app_publisher = "ahmed reda"
+app_description = "Update after submit"
+>>>>>>> 73132670b437915c1192646b59de771cceb64118
 app_email = "ahmedreda199785@gmail.com"
 app_license = "MIT"
 
@@ -18,7 +24,11 @@ app_license = "MIT"
 
 # include custom scss in every website theme (without file extension ".scss")
 # website_theme_scss = "update_after_submit/public/scss/website"
+<<<<<<< HEAD
 x
+=======
+
+>>>>>>> 73132670b437915c1192646b59de771cceb64118
 # include js, css files in header of web form
 # webform_include_js = {"doctype": "public/js/doctype.js"}
 # webform_include_css = {"doctype": "public/css/doctype.css"}
@@ -27,7 +37,11 @@ x
 # page_js = {"page" : "public/js/file.js"}
 
 # include js in doctype views
+<<<<<<< HEAD
 doctype_js = {"Sales Order" : "public/js/sales_order.js"}
+=======
+# doctype_js = {"doctype" : "public/js/doctype.js"}
+>>>>>>> 73132670b437915c1192646b59de771cceb64118
 # doctype_list_js = {"doctype" : "public/js/doctype_list.js"}
 # doctype_tree_js = {"doctype" : "public/js/doctype_tree.js"}
 # doctype_calendar_js = {"doctype" : "public/js/doctype_calendar.js"}

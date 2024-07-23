@@ -31,11 +31,14 @@ jobs:
       - name: Clone
         uses: actions/checkout@v2
 
+<<<<<<< HEAD
       - name: Find tests
         run: |
           echo "Finding tests"
           grep -rn "def test" > /dev/null
 
+=======
+>>>>>>> 73132670b437915c1192646b59de771cceb64118
       - name: Setup Python
         uses: actions/setup-python@v2
         with:

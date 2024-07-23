@@ -1,9 +1,15 @@
 [project]
 name = "update_after_submit"
 authors = [
+<<<<<<< HEAD
     { name = "Ahmed Abukhatwa", email = "ahmedreda199785@gmail.com"}
 ]
 description = "Update after submit in sales orders which is submited"
+=======
+    { name = "ahmed reda", email = "ahmedreda199785@gmail.com"}
+]
+description = "Update after submit"
+>>>>>>> 73132670b437915c1192646b59de771cceb64118
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]
